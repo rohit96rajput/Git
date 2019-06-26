@@ -21,4 +21,4 @@ import org.apache.spark.sql.Row
 
 // COMMAND ----------
 
-val df=spark.read.csv("")
+df.write.mode.saveAsTable("ds")
