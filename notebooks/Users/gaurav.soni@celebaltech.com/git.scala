@@ -1,5 +1,7 @@
 // Databricks notebook source
-
+val
+val
+vakl
 def sum(a:Int):Int=
 {
   var fact=1
