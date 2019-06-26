@@ -1,17 +1,5 @@
 // Databricks notebook source
-val
-val
-vakl
-def sum(a:Int):Int=
-{
-  var fact=1
-  for(i <- 1 to a)
-  {
-    fact=fact*i
-  }
-  return fact
-}
-sum(5)
+
 
 // COMMAND ----------
 
