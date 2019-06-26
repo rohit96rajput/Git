@@ -22,3 +22,6 @@ import org.apache.spark.sql.Row
 // COMMAND ----------
 
 df.write.mode.saveAsTable("ds")
+val
+val
+val
